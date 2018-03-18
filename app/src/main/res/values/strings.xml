@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reproductor MP3</string>
+    <string name="font_awesome_play">&#xf04b;</string>
+    <string name="font_awesome_stop">&#xf04c;</string>
+    <string name="font_awesome_next">&#xf051;</string>
+    <string name="font_awesome_previous">&#xf048;</string>
+
+</resources>
